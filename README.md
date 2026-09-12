@@ -1,0 +1,1 @@
+# uscf_chess_pairing_software
